@@ -1,6 +1,8 @@
-metadataId: 041f1e6e-bdbc-4091-b48f-8a5990f3cc5b
-ogc_feature_api: https://kos-pygeoapi.atkv3-dev.kartverket.cloud/collections
+metadataId: e46767e4-c6d9-49a6-93e8-716da0922fd7
+ogc_feature_api: https://ogcapitest.kartverket.no/rest/services/havnedata3_0/collections
 output_directory: produktspesifikasjon
-product_slug: admenheter
+product_slug: havnedata
 updated: 2025-01-01
-xmi_url: https://sosi.geonorge.no/svn/SOSI/SOSI Del 3/Statens kartverk/AdministrativeEnheter_FylkerOgKommuner-20240101.xml
+xmi-model: https://sosi.geonorge.no/svn/SOSI/SOSI Del 3/Statens kartverk/Havnedata_testing.xml
+xmi-username: sosi
+xmi-password: sosi
